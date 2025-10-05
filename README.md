@@ -13,6 +13,7 @@ Criar uma pipeline de dados que:
 ---
 
 ##  Estrutura do Projeto
+```
 projeto_pokeapi/
 │
 ├── data_extraction.py # Extração de dados da API
@@ -23,6 +24,7 @@ projeto_pokeapi/
 ├── .env # Variáveis de ambiente
 ├── requirements.txt # Dependências do projeto
 └── outputs/ # Saída dos arquivos gerados
+```
 ---
 ## Tecnologias Utilizadas
 
